@@ -1,0 +1,6 @@
+[book]
+authors = ["Nirmal"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dialogflow CX Voice Integration"
